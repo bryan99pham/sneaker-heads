@@ -56,6 +56,7 @@ h1{
     box-shadow: 5px 0px blue;
     margin-top:10px;
     margin-left: 200px;
+    margin-right: 200px;
 }
 
 #jordans-1-desc{
@@ -64,7 +65,9 @@ h1{
     background-color: aqua;
     width: 820px;
     color:white;
+    margin-top:10px;
     margin-left: 200px;
+    margin-right: 200px;
     border: 3px solid orange;
     border-radius: .35em;
     padding: 10px;
