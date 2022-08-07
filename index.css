@@ -27,6 +27,7 @@ Images:
 */
 
 body{
+    font-size:10px;
     background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
     background-size: cover;
 }
@@ -37,27 +38,34 @@ h1{
     text-decoration: underline;
     color: blueviolet;
     border-radius: .25em;
-    padding-top: 5px;
-    padding-bottom:5px;
+    padding-top: 20px;
+    padding-bottom:20px;
     margin-right: 300px;
-    margin-left: 300px;
+    margin-left: 200px;
     width: 60%;
-
+    text-shadow: 4px 4px 5px rgba(253, 253, 2, 0.959);
+    font-size: 3rem;
 }
 
 #row1-section1{
+    /*background-image: url("https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/03/Screen-Shot-2021-03-06-at-11.04.45-AM.png?w=1000&h=600&crop=1");*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
     height: 400px;
-    width: 600px;
-    box-shadow: 5px 5px blue;
-    margin-left: 300px;
+    width: 850px;
+    box-shadow: 5px 0px blue;
+    margin-top:10px;
+    margin-left: 200px;
 }
 
 #jordans-1-desc{
+    font-size:28px;
+    font-family: Blippo, Marker Felt, Jazz LET, Fantasy;
     background-color: aqua;
-    width: 600px;
+    width: 820px;
     color:white;
-    margin-left: 300px;
-    border: 10px 10px 10px orange;
-    border-radius: .25em;
-    /*still working on the paragraph below the picture of the shoe*/
+    margin-left: 200px;
+    border: 3px solid orange;
+    border-radius: .35em;
+    padding: 10px;
 }
